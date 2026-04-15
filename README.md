@@ -59,7 +59,7 @@ The dataset may include:
    - Decision Tree
    - Random Forest
    - Support Vector Machine (SVM)
-
+   - ANN
 5. Model Evaluation
    
    - Accuracy
@@ -72,8 +72,7 @@ The dataset may include:
 
 - Model achieved strong classification accuracy
 - Successfully distinguishes between walking and running
-
-«(Update with your actual accuracy, e.g., 95%)»
+- acheived accuray of 99%
 
 ---
 
